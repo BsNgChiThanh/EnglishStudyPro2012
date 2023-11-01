@@ -24,9 +24,11 @@
   - **Nhập bất kì số seri cài đặt, Ví dụ:**
     - 81YUH-9DVPX-K12GS
     - 11111-11111-11111
-    - Rồi bấm tiếp, đăng ký qua mạng.
+    - Rồi bấm tiếp.
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/74a43f25-b58f-40e4-8006-205dbee95e4e)   
   - **Điền các số 1 vào ô kích hoạt: 11111 rồi bấm kích hoạt:**
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/8c086707-c137-4f42-8e3f-9befef6d23c4)
+
   - Sẽ có một hộp thoại hiện ra, bạn hãy chép lấy mã kích hoạt đúng.
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/031c3a08-1962-480d-9a7a-66147556d705)
   - **Nhập mã kích hoạt đúng đã copy, dán vào ô mã kích hoạt và bấm enter**
