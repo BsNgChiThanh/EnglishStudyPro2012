@@ -46,6 +46,10 @@
 - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/399f2e95-e328-4d71-839b-4f2581d7696a)
 - Open chúng lên!
 - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/678e075d-b67f-4b55-9f4d-3a7d23089c6a)
+- ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/b83ecba5-5a55-4ae9-982b-28a08a7a16bf)
+- ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/a433ab94-77a0-4f35-85e0-abaf54c860ee)
+
+
 
 
 
