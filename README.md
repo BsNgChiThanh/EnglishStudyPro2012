@@ -40,4 +40,7 @@
   - Windows XP phải chép đè file âm thanh [imaadp32.acm](https://1drv.ms/u/s!AuSa--rFNj52gi_FqDijHa26c1-c?e=pFeioH) vô thư mục **C:\Windows\system32** Restart máy là thành công.
 
 ## Cài files giáo trình nghe:
+- ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/e0d86302-1209-4aab-9c7a-39ffc8a404cb)
+- **Chọn đường dẫn đến files giáo trình.**
 - 
+
