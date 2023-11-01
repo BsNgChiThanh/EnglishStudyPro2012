@@ -11,6 +11,8 @@
 
 ## Hướng dẫn cài đặt: 
   - Download về giải nén, chạy file setup.exe [source](https://1drv.ms/f/s!AuSa--rFNj52gjc6v-CRLZ3b0GAK?e=YQisWx)
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/024e9164-456a-44bd-ae85-4fa46905483f)
+  - 
   - Copy file crack (https://1drv.ms/u/s!AuSa--rFNj52gjN8lwRv3-QCbo33?e=Uc7cPZ) vô thư mục cài đặt: **C:/EngStdPro2012**
   - Sau đó chạy file crack này trong thư mục cài đặt.
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/638ed156-ace4-48a9-b53c-7b36d6c18c0a)
