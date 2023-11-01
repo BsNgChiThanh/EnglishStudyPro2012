@@ -42,5 +42,9 @@
 ## Cài files giáo trình nghe:
 - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/e0d86302-1209-4aab-9c7a-39ffc8a404cb)
 - **Chọn đường dẫn đến files giáo trình.**
+- ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/dcfd5c81-7fa6-4c4a-badf-c7027511ef93)
+- ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/399f2e95-e328-4d71-839b-4f2581d7696a)
+- Open chúng lên!
 - 
+
 
