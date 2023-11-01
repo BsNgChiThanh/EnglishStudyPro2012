@@ -33,9 +33,11 @@
   - **Nhập mã kích hoạt đúng MAJ8P, dán vào ô mã kích hoạt và bấm enter**
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/d469cb78-fb35-439a-8b20-bb3500d6ff0d)
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/d95d190a-0ef4-4555-ba3d-951a308a0deb)
-- Done!
+- Done! mở phần mềm vừa cài đặt xong lên
+- ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/cf89af5d-be45-4ede-a554-d7d1a1a9d865)
 
 #### Lưu ý:
   - Windows XP phải chép đè file âm thanh [imaadp32.acm](https://1drv.ms/u/s!AuSa--rFNj52gi_FqDijHa26c1-c?e=pFeioH) vô thư mục **C:\Windows\system32** Restart máy là thành công.
 
 ## Cài files giáo trình nghe:
+- 
