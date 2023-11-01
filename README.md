@@ -1,7 +1,7 @@
 # English StudyPro 2012
 - Source: https://1drv.ms/f/s!AuSa--rFNj52gjc6v-CRLZ3b0GAK?e=YQisWx.
 - File Crack: https://1drv.ms/u/s!AuSa--rFNj52gjN8lwRv3-QCbo33?e=Uc7cPZ
-- Files nghe English StudyPro 2012:
+- Files giáo trình nghe English StudyPro 2012:
   - [AStreamline_part01.esp](https://1drv.ms/u/s!AuSa--rFNj52gjC6YudQSkhSv2ol?e=3yZuY9)
   - [AStreamline_part02.esp](https://1drv.ms/u/s!AuSa--rFNj52gi13hN7NpZ8qIjuQ?e=aRVrZL)
   - [HereThere.esp](https://1drv.ms/u/s!AuSa--rFNj52gi6tGpKI4rcmMBa3?e=DEhUEi)
@@ -28,3 +28,5 @@
 
 #### Lưu ý:
   - Windows XP phải chép đè file âm thanh [imaadp32.acm](https://1drv.ms/u/s!AuSa--rFNj52gi_FqDijHa26c1-c?e=pFeioH) vô thư mục **C:\Windows\system32** Restart máy là thành công.
+
+## Cài files giáo trình nghe:
