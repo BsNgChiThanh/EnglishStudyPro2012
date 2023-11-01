@@ -48,9 +48,13 @@
 - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/678e075d-b67f-4b55-9f4d-3a7d23089c6a)
 - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/b83ecba5-5a55-4ae9-982b-28a08a7a16bf)
 - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/a433ab94-77a0-4f35-85e0-abaf54c860ee)
+- **Các giáo trình khác cài tương tự.**
 
 ## Mở giáo trình luyện nghe!
-- 
+- ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/a63bbf15-2ee9-4444-a9d9-a39831fc4948)
+- ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/e5ef96cf-f7f9-41fe-b0d4-d99358f789f9)
+
+
 
 
 
