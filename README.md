@@ -31,8 +31,8 @@
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/bb64c0cf-c95f-4219-a121-941a836daddf)
   - Mã kích hoạt đúng sẽ là **MAJ8P**
   - **Nhập mã kích hoạt đúng MAJ8P, dán vào ô mã kích hoạt và bấm enter**
-  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/b895ab33-8ded-4c51-a4f3-9b42bc6e8179)
-  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/6c97e362-6a9d-4337-aab2-a0ee714e59d5) 
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/d469cb78-fb35-439a-8b20-bb3500d6ff0d)
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/d95d190a-0ef4-4555-ba3d-951a308a0deb)
 - Done!
 
 #### Lưu ý:
