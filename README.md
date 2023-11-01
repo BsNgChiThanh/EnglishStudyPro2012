@@ -14,22 +14,25 @@
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/024e9164-456a-44bd-ae85-4fa46905483f)
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/fd671d4f-02de-4f13-8b25-677f0f785604)
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/d8e10902-5ed1-4176-b134-d35aa3acdb08)
-
-
   - Copy file crack (https://1drv.ms/u/s!AuSa--rFNj52gjN8lwRv3-QCbo33?e=Uc7cPZ) vô thư mục cài đặt: **C:/EngStdPro2012**
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/1f7ade8c-71d8-4a23-b3aa-1e907eb7fe36)
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/8e50840a-cdd6-49e1-80b3-a1747be2c1f6)
   - Sau đó chạy file crack này trong thư mục cài đặt.
-  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/638ed156-ace4-48a9-b53c-7b36d6c18c0a)
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/152d41e2-fb5d-4c30-8f04-ed7f6a3f9f60)
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/33e4acfa-fd0e-4576-93d5-0a3c3375409a)
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/8c915d4a-fbe5-4b3d-9f9e-d15671475c52)
   - **Nhập bất kì số seri cài đặt, Ví dụ:**
     - 81YUH-9DVPX-K12GS
     - 11111-11111-11111
-    - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/74a43f25-b58f-40e4-8006-205dbee95e4e)   
-    - **Điền các số 1 vào ô kích hoạt: 11111 rồi bấm kích hoạt:**
-    - Sẽ có một hộp thoại hiện ra, bạn hãy chép lấy mã kích hoạt đúng.
-    - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/031c3a08-1962-480d-9a7a-66147556d705)
-    - **Nhập mã kích hoạt đúng đã copy, dán vào ô mã kích hoạt và bấm enter**
-    - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/b895ab33-8ded-4c51-a4f3-9b42bc6e8179)
-    - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/6c97e362-6a9d-4337-aab2-a0ee714e59d5) 
-  - Done!
+    - Rồi bấm tiếp, đăng ký qua mạng.
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/74a43f25-b58f-40e4-8006-205dbee95e4e)   
+  - **Điền các số 1 vào ô kích hoạt: 11111 rồi bấm kích hoạt:**
+  - Sẽ có một hộp thoại hiện ra, bạn hãy chép lấy mã kích hoạt đúng.
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/031c3a08-1962-480d-9a7a-66147556d705)
+  - **Nhập mã kích hoạt đúng đã copy, dán vào ô mã kích hoạt và bấm enter**
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/b895ab33-8ded-4c51-a4f3-9b42bc6e8179)
+  - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/6c97e362-6a9d-4337-aab2-a0ee714e59d5) 
+- Done!
 
 #### Lưu ý:
   - Windows XP phải chép đè file âm thanh [imaadp32.acm](https://1drv.ms/u/s!AuSa--rFNj52gi_FqDijHa26c1-c?e=pFeioH) vô thư mục **C:\Windows\system32** Restart máy là thành công.
