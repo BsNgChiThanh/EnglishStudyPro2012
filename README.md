@@ -49,6 +49,8 @@
 - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/b83ecba5-5a55-4ae9-982b-28a08a7a16bf)
 - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/a433ab94-77a0-4f35-85e0-abaf54c860ee)
 
+## Mở giáo trình luyện nghe!
+- 
 
 
 
