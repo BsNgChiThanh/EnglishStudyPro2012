@@ -14,7 +14,7 @@
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/024e9164-456a-44bd-ae85-4fa46905483f)
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/fd671d4f-02de-4f13-8b25-677f0f785604)
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/d8e10902-5ed1-4176-b134-d35aa3acdb08)
-  - Copy file crack (https://1drv.ms/u/s!AuSa--rFNj52gjN8lwRv3-QCbo33?e=Uc7cPZ) vô thư mục cài đặt: **C:/EngStdPro2012**
+  - Copy file crack (https://1drv.ms/u/s!AuSa--rFNj52gjN8lwRv3-QCbo33?e=Uc7cPZ) hoặc https://raw.githubusercontent.com/BsNgChiThanh/EnglishStudyPro2012/IMP/ESPro.exe vô thư mục cài đặt: **C:/EngStdPro2012**
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/1f7ade8c-71d8-4a23-b3aa-1e907eb7fe36)
   - ![image](https://github.com/BsNgChiThanh/EnglishStudyPro2012/assets/82578024/8e50840a-cdd6-49e1-80b3-a1747be2c1f6)
   - Sau đó chạy file crack này trong thư mục cài đặt.
